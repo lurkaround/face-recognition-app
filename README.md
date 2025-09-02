@@ -2,8 +2,6 @@
 
 You can find the deployed project here: https://face-rec-ap.herokuapp.com/
 
-This was my first time coding an API and connecting it to my front-end as well as with PostgreSQL. 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
